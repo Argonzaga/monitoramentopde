@@ -58,11 +58,11 @@ function setup() {
 
 	global $DbConfig;
 	$DbConfig = array(
-		'host'     => '10.75.16.97',
-    'port'     => '5432',
-		'user'     => 'smdu',
-		'dbname'   => 'MonitoramentoPDE',
-		'password' => 'O&6zlfbN'
+		'host'     => '00.00.00.00',
+    'port'     => '0000',
+		'user'     => 'user',
+		'dbname'   => 'dbname',
+		'password' => 'pass'
 	);
 	
 }
